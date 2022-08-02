@@ -1,6 +1,7 @@
 # Self-driving-car
 
-This's a project that fellow the JavaScript course from https://www.youtube.com/watch?v=Rs_rAxEsAvI&t=4212s
+This's a project that fellow the JavaScript course from:  
+https://www.youtube.com/watch?v=Rs_rAxEsAvI&t=4212s
 If you are interested in build awesome project you may subscribe that channel
   
 The code will appear as the course progresses and will be divided into parts as follows:
@@ -13,3 +14,5 @@ The code will appear as the course progresses and will be divided into parts as 
   7. Visualizing neural networks
   8. Optimizing neural networks
   9. Fine-tuning
+
+  The final project would be Fine-tuning file
