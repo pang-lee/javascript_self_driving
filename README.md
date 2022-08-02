@@ -17,4 +17,7 @@ The code will appear as the course progresses and will be divided into parts as 
   8. Optimizing neural networks
   9. Fine-tuning
 
-  The final project would be Fine-tuning file
+  The final project would be Fine-tuning file  
+  You can also play this project using keyboard arrow key  
+  all you need is change the car.js file line 15 to 'KEY'  
+  This file have to store the AI bias and weight inside your browser localstorage
